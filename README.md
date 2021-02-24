@@ -1,7 +1,14 @@
-# homework_assignment_2
- Details (Scenario):
 
-You are building the API for a pizza-delivery company. Don't worry about a frontend, just build the API. Here's the spec from your project manager: 
+# homework_assignment_2
+
+
+
+ ⚠️ ❗️ ***If you use external libraries (NPM), you will not pass this assignment.*** ❗️ ⚠️
+
+
+ **Details (Scenario):**
+
+You are building the API for a 🍕 pizza-delivery company. Don't worry about a frontend, just build the API. Here's the spec from your project manager:
 
 1. New users can be created, their information can be edited, and they can be deleted. We should store their name, email address, and street address.
 
@@ -15,8 +22,12 @@ You are building the API for a pizza-delivery company. Don't worry about a front
 
 6. When an order is placed, you should email the user a receipt. You should integrate with the sandbox of Mailgun.com for this. Note: Every Mailgun account comes with a sandbox email account domain (whatever@sandbox123.mailgun.org) that you can send from by default. So, there's no need to setup any DNS for your domain for this task https://documentation.mailgun.com/en/latest/faqs.html#how-do-i-pick-a-domain-name-for-my-mailgun-account
 
-Important Note: If you use external libraries (NPM) to integrate with Stripe or Mailgun, you will not pass this assignment. You must write your API calls from scratch. Look up the "Curl" documentation for both APIs so you can figure out how to craft your API calls. 
+> ❗️**Important Note** ❗️: If you use external libraries (NPM) to
+> integrate with Stripe or Mailgun, you will not pass this assignment.
+> You must write your API calls from scratch. Look up the "Curl"
+> documentation for both APIs so you can figure out how to craft your
+> API calls.
 
 This is an open-ended assignment. You may take any direction you'd like to go with it, as long as your project includes the requirements. It can include anything else you wish as well. 
 
-And please: Don't forget to document how a client should interact with the API you create!
+⚠️ And please: Don't forget to 📑 document how a client should interact with the API you create!
