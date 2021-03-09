@@ -1,6 +1,6 @@
-var server = require('./lib/server')
+const server = require('./lib/server');
 
-var app = {};
+const app = {};
 
 app.init = function () {
     server.init();
