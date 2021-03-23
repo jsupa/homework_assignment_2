@@ -1,1 +1,1 @@
-{"cart":[{"id":7,"name":"Pizza Hawai","price":5.5,"message":"without npm"},{"id":1,"name":"Pizza Hawai","message":"some","price":5.5},{"id":3,"name":"Pizza Hawai","message":"waaat ?","price":5.5},{"id":4,"name":"Pizza Hawai","message":"pridal som","price":5.5},{"id":5,"name":"Pizza Hawai","message":"pridal som","price":5.5},{"id":6,"name":"Pizza Hawai","message":"pridal som","price":5.5}],"status":"waiting for customer to make order"}
+{"cart":[{"id":1,"name":"Pizza Hawai","price":5.5,"message":"pridal som"}],"status":"payment sucessful, wait for restourant"}
